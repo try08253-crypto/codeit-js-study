@@ -1,0 +1,7 @@
+{
+  "name": "src",
+  "type": "module",
+  "scripts": {
+    "start": "node ./06-function.js"
+  }
+}

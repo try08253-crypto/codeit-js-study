@@ -1,0 +1,8 @@
+{
+  "name": "problem2",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

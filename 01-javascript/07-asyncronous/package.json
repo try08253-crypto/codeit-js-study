@@ -1,0 +1,7 @@
+{
+  "name": "07-asyncronous",
+  "type": "module",
+  "scripts": {
+    "start": "node ./11-prompt.js"
+  }
+}

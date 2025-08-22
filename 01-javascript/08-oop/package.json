@@ -1,0 +1,8 @@
+{
+  "name": "07-oop",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}

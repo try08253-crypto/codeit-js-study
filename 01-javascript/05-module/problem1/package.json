@@ -1,0 +1,7 @@
+{
+  "name": "problem1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
